@@ -1,1 +1,1 @@
-# MathOperationGame.github.io
+# math-game.github.io
